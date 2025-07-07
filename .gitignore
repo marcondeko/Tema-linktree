@@ -1,5 +1,5 @@
 /wordpress/wp-content/themes/*
 !/wordpress/wp-content/themes/Tema-linktree/ 
-/wordpress/wp-content/themes/Tema-linktree/*
+!/wordpress/wp-content/themes/Tema-linktree/*
 
 
